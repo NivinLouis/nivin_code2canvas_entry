@@ -3,6 +3,11 @@ import "../styles.css";
 export const metadata = {
   title: "My Courses | Classroom",
   description: "A student dashboard for courses, schedule, and classmates.",
+  icons: {
+    icon: "/assets/college-logo.png",
+    shortcut: "/assets/college-logo.png",
+    apple: "/assets/college-logo.png",
+  },
 };
 
 export default function RootLayout({ children }) {
