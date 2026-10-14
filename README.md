@@ -1,5 +1,3 @@
-# Code 2 Canvas — Student Learning Dashboard
-
 This is my entry for the **Code 2 Canvas** front-end challenge. I recreated the supplied student-dashboard design as a responsive, interactive web app, then added working course, calendar, messaging, and task flows while keeping the original visual direction.
 
 **Live demo:** [nivin-code2canvas.vercel.app](https://nivin-code2canvas.vercel.app/)
